@@ -3,10 +3,9 @@
 
 ### Content
 * Nokia_5110-3310_LCD
-    * Nokia 5110 / 3310 LCD to attach directly to the PSB, as for example used
-    in breakout boards (see [Sparkfun](https://www.sparkfun.com/products/10168) or [Adafruit](https://www.adafruit.com/product/338))
+    * Nokia 5110 / 3310 LCD as used in breakout boards from [Sparkfun](https://www.sparkfun.com/products/10168), [Adafruit](https://www.adafruit.com/product/338), and others, to use the "clip-in" LCD from the breakout board in one's own custom PCB
 * LCD_Connectors
-    * FPA-WZA201-08-LF Nokia 3310 LCD connector
+    * FPA-WZA201-08-LF connector for [Olimex Nokia 3310 LCD](https://www.olimex.com/Products/Components/LCD/LCD-DISPLAY-NOKIA3310/)
 * Artwork_4chord-midi
     * Artwork for the [4chord MIDI project](https://github.com/sgreg/4chord-midi)
 
