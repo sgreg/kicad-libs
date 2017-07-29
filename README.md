@@ -4,6 +4,7 @@
 ### Content
 * Nokia_5110-3310_LCD
     * Nokia 5110 / 3310 LCD as used in breakout boards from [Sparkfun](https://www.sparkfun.com/products/10168), [Adafruit](https://www.adafruit.com/product/338), and others, to use the "clip-in" LCD from the breakout board in one's own custom PCB
+    * Footprint with and without solder paste layer (to your own liking when ordering stencils)
 * LCD_Connectors
     * FPA-WZA201-08-LF connector for [Olimex Nokia 3310 LCD](https://www.olimex.com/Products/Components/LCD/LCD-DISPLAY-NOKIA3310/)
 * Artwork_4chord-midi
